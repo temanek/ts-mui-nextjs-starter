@@ -3,7 +3,7 @@ type: Page
 title: Privacy Policy
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Privacy Policy of Pixign Games
     subtitle: The section subtitle
     text: >
 
