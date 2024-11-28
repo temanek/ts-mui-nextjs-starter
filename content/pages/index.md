@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: PIXIGN
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: We develop apps
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
