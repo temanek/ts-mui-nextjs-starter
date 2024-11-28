@@ -6,7 +6,6 @@ sections:
     title: An Empty Page
     subtitle: The section subtitle
     text: >
-      Privacy Policy of Pixign Games
 
       This Application collects some Personal Data from its Users.
 
@@ -29,9 +28,9 @@ sections:
       Advertiser ID or IDFA, for example) and Usage Data
 
 
-      **Analytics
+      \*\*Analytics
 
-      **Facebook Analytics for Apps
+      \*\*Facebook Analytics for Apps
 
       Personal Data: Usage Data and various types of Data as specified in the
       privacy policy of the service
@@ -109,7 +108,7 @@ sections:
       Pixign Games
 
 
-      Owner contact email: gdpr\@appholdings.org
+      Owner contact email: <gdpr@appholdings.org>
 
 
       Opt-out gdpr for Pixign Games
@@ -122,7 +121,7 @@ sections:
       Pixign Games LLC
 
 
-      Owner contact email: gdpr\@appholdings.org
+      Owner contact email: <gdpr@appholdings.org>
 
 
       Opt-out gdpr@ Pixign Games
