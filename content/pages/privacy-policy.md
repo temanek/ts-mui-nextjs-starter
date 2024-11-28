@@ -4,7 +4,7 @@ title: Privacy Policy
 sections:
   - type: HeroSection
     title: Privacy Policy
-    subtitle: ...
+    subtitle: of Pixign Games
     text: >
 
       This Application collects some Personal Data from its Users.
