@@ -3,7 +3,7 @@ type: Page
 title: Terms of Service for Pixign Games
 sections:
   - type: HeroSection
-    title: An Empty Page
+    title: Terms of Service
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
