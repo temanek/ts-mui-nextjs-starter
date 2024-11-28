@@ -1,5 +1,5 @@
 ---
-title: Home
+title: PIXIGN
 type: Page
 sections:
   - type: HeroSection
